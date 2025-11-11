@@ -4,7 +4,7 @@
 
 **Ph.D. Candidate @ Singapore Management University**
 
-Researching robust, fair, and effective methods for *automated evaluation and improvement of LLMs*.
+Researching robust, fair, effective, and generalizable methods for *Automated Evaluation and Improvement of LLMs*.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yingjiahao14\&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
@@ -24,7 +24,7 @@ Researching robust, fair, and effective methods for *automated evaluation and im
 * **LLM Evaluation**
 
   * Automated Evaluation Data Generation
-  * Generalizable Evalution
+  * Generalizable Evaluation
   * Reliable Evaluator Development
 
 * **LLM Improvement**
