@@ -6,7 +6,6 @@ Jiahao Ying
 Ph.D. Candidate @ Singapore Management University
 Researching robust, fair, and effective methods for automated evaluation and improvement of LLMs.
 
-
 </div>
 
 
@@ -18,10 +17,10 @@ Researching robust, fair, and effective methods for automated evaluation and imp
 	•	I focus on LLM Evaluation (automated evaluation data generation, reliable evaluators) and LLM Improvement (adaptive learning strategies).
 
 🔬 Research Interests
-	•	LLMs Evaluation
+	•	LLM Evaluation
 	•	Automated Evaluation Data Generation
 	•	Reliable Evaluator Development
-	•	LLMs Improvement
+	•	LLM Improvement
 	•	Adaptive Learning Strategies
 
 📰 Recent News
@@ -42,14 +41,10 @@ Researching robust, fair, and effective methods for automated evaluation and imp
 Replace the Paper/Code/Project links above with the exact URLs from your website.
 
 🧭 Featured Projects
-	•	Automating-DatasetUpdates — Repo for “Have Seen Me Before? Automating Dataset Updates Towards Reliable and Timely Evaluation”.
-HTML
-	•	KRE — Dataset for the paper.
-Python
-	•	Dual-Eval — Repo for “Disentangling Language Medium and Cultural Context for Evaluating Multilingual LLMs”.
-Python
-	•	ALEX-nlp/MUI-Eval — Repo for “Revisiting LLM Evaluation through Mechanism Interpretability: a New Metric and Model Utility Law”.
-Python
+	•	Automating-DatasetUpdates — Repo for “Have Seen Me Before? Automating Dataset Updates Towards Reliable and Timely Evaluation”. (HTML)
+	•	KRE — Dataset for the paper. (Python)
+	•	Dual-Eval — Repo for “Disentangling Language Medium and Cultural Context for Evaluating Multilingual LLMs”. (Python)
+	•	ALEX-nlp/MUI-Eval — Repo for “Revisiting LLM Evaluation through Mechanism Interpretability: a New Metric and Model Utility Law”. (Python)
 
 Pin these repositories on your profile for quick access.
 
@@ -57,33 +52,13 @@ Pin these repositories on your profile for quick access.
 
 📊 GitHub Analytics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yingjiahao14&show_icons=true" alt="GitHub Stats" />
-</a>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingjiahao14&layout=compact" alt="Top Languages" />
-</a>
-
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=yingjiahao14" alt="GitHub Streak" />
-</a>
-
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=yingjiahao14&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</a>
-
-
 
 ⸻
 
 🔗 Useful Links
-	•	Website: https://yingjiahao14.github.io/
-	•	Google Scholar: https://scholar.google.com/citations?hl=en&user=JOEJg9UAAAAJ
-	•	Email: jhying.2022@phdcs.smu.edu.sg
+	•	Website: https://yingjiahao14.github.io/￼
+	•	Google Scholar: https://scholar.google.com/citations?hl=en&user=JOEJg9UAAAAJ￼
+	•	Email: jhying.2022@phdcs.smu.edu.sg￼
 
 📫 Contact
 
