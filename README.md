@@ -36,7 +36,7 @@ Researching robust, fair, effective, and generalizable methods for *Automated Ev
 
 ## 🔗 Useful Links
 
-* **Website:** [https://yingjiahao14.github.io/](https://yingjiahao14.github.io/)
+* **Website:** [https://jhying.org/](https://jhying.org/)
 * **Google Scholar:** [https://scholar.google.com/citations?hl=en&user=JOEJg9UAAAAJ](https://scholar.google.com/citations?hl=en&user=JOEJg9UAAAAJ)
 * **Email:** [jhying.2022@phdcs.smu.edu.sg](mailto:jhying.2022@phdcs.smu.edu.sg)
 
